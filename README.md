@@ -6,6 +6,7 @@ Add in your server.cfg
 ##############
 
 start removeammo
+
 start setammo
 
 ##############
